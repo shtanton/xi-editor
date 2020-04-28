@@ -15,7 +15,7 @@
 
 extern crate test;
 
-extern crate xi_unicode;
+//extern crate xi_unicode;
 
 #[cfg(test)]
 mod bench {
